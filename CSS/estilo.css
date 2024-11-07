@@ -1,0 +1,61 @@
+.divTudo {
+    background: url("../DOCS/WhatsApp Image 2024-10-03 at 10.08.36.jpeg") no-repeat fixed center;
+    background-color: black;
+    background-size: cover; 
+    height: 99vh;
+
+}
+
+#link1{
+    
+    width: 60vh;
+    height: 11vh;
+    position: absolute;
+    right: 51.45vw;
+    top: 26.5vh;
+}
+
+#link2{
+    
+    width: 60vh;
+    height: 11vh;
+    position: absolute;
+    left: 51.45vw;
+    top: 26.5vh;
+}
+
+#link3{
+    
+    width: 60vh;
+    height: 11vh;
+    position: absolute;
+    right: 51.45vw;
+    top: 43.5vh;
+}
+
+#link4{
+    
+    width: 60vh;
+    height: 11vh;
+    position: absolute;
+    left: 51.45vw;
+    top: 43.5vh;
+}
+
+#link5{
+    
+    width: 60vh;
+    height: 11vh;
+    position: absolute;
+    right: 51.45vw;
+    top: 60.5vh;
+}
+
+#link6{
+    
+    width: 60vh;
+    height: 11vh;
+    position: absolute;
+    left: 51.45vw;
+    top: 60.5vh;
+}
